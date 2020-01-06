@@ -4,3 +4,4 @@ Ractive Forms:
 2. In html we associate form with [formGroup]="form" property binding, formControlName as an attribute with input field and
 formGroupName when we have multiple form groups.
 3. We have FormBuilder class which is having all 3 abstract classes i.e. FormGroup, FormControl and FormArray.
+4. Change password form is created with validations added in it and show hide password plugin is added to show or hide pwd.
